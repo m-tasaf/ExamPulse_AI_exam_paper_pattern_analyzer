@@ -1,0 +1,10 @@
+UNIVERSITY EXAMINATION 2023
+Subject: Data Structures & Algorithms
+Time: 3 Hours | Total Marks: 60
+
+Q1. (10 marks) Compare Dynamic Programming and Greedy Algorithms. Solve the Longest Common Subsequence (LCS) problem for strings "AGGTAB" and "GXTXAYB" using a DP table.
+Q2. (10 marks) Explain AVL Trees and the four rotation cases (LL, RR, LR, RL) used to maintain height balance after insertion.
+Q3. (10 marks) Given a weighted undirected graph, explain Kruskal's algorithm for finding a Minimum Spanning Tree (MST) using Disjoint Set Union (Union-Find).
+Q4. (10 marks) Trace Heap Sort on the array [12, 11, 13, 5, 6, 7] and derive its worst-case time complexity.
+Q5. (10 marks) What is topological sorting of a Directed Acyclic Graph (DAG)? Provide an algorithm using Kahn's (indegree) method.
+Q6. (10 marks) Explain how a Trie (prefix tree) works and analyze the time complexity of insert and search operations compared to a hash table.

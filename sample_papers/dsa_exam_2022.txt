@@ -1,0 +1,10 @@
+UNIVERSITY EXAMINATION 2022
+Subject: Data Structures & Algorithms
+Time: 3 Hours | Total Marks: 60
+
+Q1. (10 marks) Explain the time and space complexity of Merge Sort and Quick Sort in best, average, and worst cases. When would you prefer Merge Sort over Quick Sort?
+Q2. (10 marks) Given an array of integers and a target sum, write a dynamic programming algorithm to solve the 0/1 Knapsack problem and analyze its complexity.
+Q3. (10 marks) Describe Breadth-First Search (BFS) and Depth-First Search (DFS) on a directed graph. Show how DFS can be used to detect a cycle in a graph.
+Q4. (10 marks) What is a Binary Search Tree (BST)? Write an algorithm to delete a node with two children from a BST while maintaining the BST property.
+Q5. (10 marks) Explain hash collisions and compare Separate Chaining with Linear Probing.
+Q6. (10 marks) Use Dijkstra's algorithm to find the shortest path from vertex A to all other vertices in a weighted graph with non-negative edge weights.

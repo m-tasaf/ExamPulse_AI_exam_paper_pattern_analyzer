@@ -1,0 +1,10 @@
+UNIVERSITY EXAMINATION 2024
+Subject: Data Structures & Algorithms
+Time: 3 Hours | Total Marks: 60
+
+Q1. (10 marks) Define optimal substructure and overlapping subproblems. Write a bottom-up Dynamic Programming solution for the Coin Change (minimum coins) problem.
+Q2. (10 marks) Explain Dijkstra's shortest path algorithm using a min-priority queue. Why does Dijkstra's algorithm fail with negative edge weights?
+Q3. (10 marks) Implement a Queue using two Stacks and analyze the amortized time complexity of enqueue and dequeue operations.
+Q4. (10 marks) Compare B-Trees and Binary Search Trees. Why are B-Trees preferred for database indexing and disk storage?
+Q5. (10 marks) Given an unweighted graph, explain how BFS finds the shortest path from a source node and write the pseudocode.
+Q6. (10 marks) Explain Quick Sort's partition step (Lomuto or Hoare) and discuss how randomized pivot selection avoids worst-case O(n^2) behavior.
